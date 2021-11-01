@@ -1,0 +1,81 @@
+PMID- 24603210
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150123
+LR  - 20211021
+IS  - 1660-2412 (Electronic)
+IS  - 1464-1801 (Print)
+IS  - 1464-1801 (Linking)
+VI  - 24
+IP  - 2
+DP  - 2014
+TI  - Major facilitator superfamily porters, LacY, FucP and XylE of Escherichia coli 
+      appear to have evolved positionally dissimilar catalytic residues without 
+      rearrangement of 3-TMS repeat units.
+PG  - 82-90
+LID - 10.1159/000358429 [doi]
+AB  - Based on alleged functional residue correspondences between FucP and LacY, a recent 
+      study has resulted in a proposed model of 3-TMS unit rearrangements [Madej et al.: 
+      Proc Natl Acad Sci USA 2013;110:5870-5874]. We rebut this theory, using 7 different 
+      lines of evidence. Our observations suggest that these two transporters are 
+      homologous throughout their lengths, having evolved from a common ancestor without 
+      repeat unit rearrangements. We exploit the availability of the high-resolution XylE 
+      crystal structures in multiple conformations including the inward-facing state to 
+      render possible direct comparisons with LacY. Based on a Δdistance map, we confirm 
+      the conclusion of Quistgaard et al. [Nat Struct Mol Biol 2013;20:766-768] that the 
+      N-terminal 6 TMS halves of these transporters are internally less mobile than the 
+      second halves during the conformational transition from the outward occluded state 
+      to the inward occluded state and inward occluded state to inward open state. These 
+      observations, together with those of Madej et al. [2013], lead to the suggestion 
+      that functionally equivalent catalytic residues involved in substrate binding and 
+      transport catalysis have evolved in dissimilar positions, but apparently often in 
+      similar positions in the putative 3-TMS repeat units, from a single structural 
+      scaffold without intragenic rearrangement.
+CI  - © 2014 S. Karger AG, Basel.
+FAU - Västermark, Ake
+AU  - Västermark A
+AD  - Department of Molecular Biology, University of California at San Diego, La Jolla, 
+      Calif., USA.
+FAU - Lunt, Bryan
+AU  - Lunt B
+FAU - Saier, Milton
+AU  - Saier M
+LA  - eng
+GR  - R01 GM077402/GM/NIGMS NIH HHS/United States
+GR  - U54 GM094610/GM/NIGMS NIH HHS/United States
+GR  - GM094610/GM/NIGMS NIH HHS/United States
+GR  - GM077402-05A1/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20140228
+TA  - J Mol Microbiol Biotechnol
+JT  - Journal of molecular microbiology and biotechnology
+JID - 100892561
+RN  - 0 (Escherichia coli Proteins)
+RN  - 0 (FucP protein, E coli)
+RN  - 0 (LacY protein, E coli)
+RN  - 0 (Monosaccharide Transport Proteins)
+RN  - 0 (Symporters)
+RN  - 0 (xylE protein, E coli)
+SB  - IM
+MH  - Catalytic Domain
+MH  - Escherichia coli/*enzymology
+MH  - Escherichia coli Proteins/*chemistry/genetics
+MH  - Models, Molecular
+MH  - Monosaccharide Transport Proteins/*chemistry/genetics
+MH  - Protein Conformation
+MH  - Sequence Alignment
+MH  - Symporters/*chemistry/genetics
+PMC - PMC4048653
+MID - NIHMS573661
+EDAT- 2014/03/08 06:00
+MHDA- 2015/01/24 06:00
+CRDT- 2014/03/08 06:00
+PHST- 2014/03/08 06:00 [entrez]
+PHST- 2014/03/08 06:00 [pubmed]
+PHST- 2015/01/24 06:00 [medline]
+AID - 000358429 [pii]
+AID - 10.1159/000358429 [doi]
+PST - ppublish
+SO  - J Mol Microbiol Biotechnol. 2014;24(2):82-90. doi: 10.1159/000358429. Epub 2014 Feb 
+      28.
